@@ -1,46 +1,31 @@
-PixelOS 
-by whyredFire and SarisanSe
+PixelishExperience (12/05/2021)
+by whyredFire and Ashwin
 ----------------
 Changelog
 ----------------
-Device
-- Added Blur toggle in dev settings
-- Switched to qcom power hal and perf hal boosting
-- Update redfin fp to March
-- Wider and smoother notch cutout
-- Updated stock blobs from MIUI 21.3.3
-- Updated CAF blobs from LA.UM.9.11.r1-02800-NICOBAR.0
-- Updated redfin fp to march (fixed safetynet)
-- Fixed camera freeze in some social media apps
-- Fixed camera lens switching delay
-- Fixed voip/mic issues in some apps
-- KCAL improvements in xiaomi parts
-- Added vibration strength control in xiaomi parts
-- Switched to new QTI thermal HAL
-- Attempted to fix screen blackouts under sunlight/heat
-- Disabled KPTI for performance improvement
-- Reduced readahead to 128kB to improve storage performance
-- GPS config optimizations and fixes
-- Tuned cpusets for better performance
-- Improved rounded corners and fixed hide cutout option
-- Switched to android userspace LMKD
-- Added support for willow hwversion 18.31.0
-- Improved zram read/write performance
-- Switched to QuicksilveR v2.5 kernel
-- Merged LA.UM.9.1.r1-09100-SMxxx0.0 CAF and v4.14.223 in kernel
-- Fast charging on chinese ginkgo variants maybe fixed
-- Reduced minimum brighness 
-- Misc optimizations and fixes
+Device Changelog
+- Fixed offline charging animation
+- Updated Redfin may fingerprint
+- Enabled iorapd (improved app launches and i/o)
+- Upstreamed kernel to 4.14.232 LTS
+- Added fingerprint shutter in MiuiCamera
+- Fixed 5ghz wifi on android 11 firmware
+- Improved 5ghz wifi signal tolerance
+- Improved and fine tuned auto brightness algorithm
+- Fixed KCAL not applying on first boot
+- Reduced min cpu freq and boosts for battery improvement
+- Tuned cpusets and scheduler for better performance
+- Merged tag LA.UM.9.11.r1-03900-NICOBAR.0 into kernel
+- Added missing ANT+ hal, few rootdir tweaks
+- Fixes "Device is too hot" issue in apps Like Gphotos
+- Fixed HWC crash on boot
+- Updated/Added missed wifi configs
+- Updated WifiOverlay from LA.UM.9.1.r1-09100-SMxxx0.0
+- Updated GPS configs to LA.UM.9.11.r1-03200-NICOBAR.0
+- Performance improvements and misc. fixes
 
 Source 
-- OTA Updates  
-- March Security Patch
-- Add blur in power menu
-- Add Caffeine quick setting tile
-- Add android S style media player in quicksettings and lockscreen
-- Screenshot will follow system sound
-- Added bt indicator for headsets
-- Locked access to some QS tiles from lock screen without unlocking
-- Changed Screenshot Tile chip colour to follow system
-- Increased max password character limit to 64
-- Added 2 button navigation gestures
+- May Security Patch
+- Added tint for quicksetting tiles
+- Optimised offline charging animation
+- Other misc. changes
