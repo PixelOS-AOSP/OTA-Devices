@@ -1,7 +1,52 @@
 PixelOS 
 by whyredFire and SarisanSe
 ----------------
-Changelog
+Changelog (06/07/2021)
+----------------
+
+> Source Changelog:
+- June security patch is merged
+- Gapps and Translations have been updated
+- Miscellaneous optimizations and fixes
+
+> Device Changelog:
+- Added IFAA/mplipay blobs 
+- Switch to qti health implementation
+- Move parts under system
+- Stock blobs updated from MIUI 21.7.5
+- Fixed tiktok, QQ and other apps crash due to vulkan
+- Fixed xiaomi parts KCAL settings out-of-the-box
+- Added LED indicator for offline charging
+- Reduce schedtune boosting for lesser heat
+- Freed some RAM from useless virtual framebuffer
+- Switched to QTI health implementation
+- Branded MIUI Camera 
+- Various updates in kernel (Linux v4.14.238, CAF tag LA.UM.9.11.r1-04300-NICOBAR.QSSI12.0, scheduler tweaks and more)
+
+> Kernel Changelog:
+- Upstreamed to v4.14.238
+- Merged LA.UM.9.11.r1-04300-NICOBAR.QSSI12.0 CAF tag
+- Fully disabled coresight debugging
+- Removed useless tracing in GPU drivers
+- Removed dynamic schedtune boost
+- Force actual top-app tasks to big cluster
+- Added back 864mhz in little cluster
+- Fixed aux cams on some new ginkgo variants
+- Bunch of scheduler & binder backports
+- CAF fixes & improvements from SDX55 tags
+- Moved some important tasks to big cluster
+- SMB5 (charger driver) tweaks
+- Schedutil governor tweaks
+- Enabled write back caching for storage
+- Use little cluster for adsprpc qos
+- Added FUSE shortcuit for better storage performance
+- Added automatic compaction for ZRAM
+- Increased vmstat interval to 30s
+- Reduced debugging overhead
+- Misc optimizations and fixes
+
+----------------
+Changelog (13/05/2021)
 ----------------
 Device
 - Added Blur toggle in dev settings
