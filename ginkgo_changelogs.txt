@@ -3,6 +3,11 @@ by whyredFire and Ashwin
 ----------------
 Changelog (17/07/2021)
 ----------------
+- Fixed face unlock
+
+----------------
+Changelog (17/07/2021)
+----------------
 - Hide root better
 - Bring back notch cutout overlays (in dev options)
 - Update blobs to LA.UM.9.11.r1-03900-NICOBAR.0
