@@ -1,11 +1,13 @@
 PixelOS 
 by whyredFire and Ashwin
 ----------------
-Changelog (15/08/2021)
+Changelog (27/08/2021)
 ----------------
-Fixed deep sleep (in kernel)
-Enabled conservative PL in battery saver mode
-Disabled GPU boost in battery saver mode
-Display correct hwversion in About Device
+Fixed APN issue
+Switched back to default 392 DPI
+Implemented new face unlock implementation from Pixel Experience
+Align media player buttons properly in quick settings media player
+Make night light transition more gradual
+Miscellaneous optimisations and fixes
 
 If OTA Updates fails to install, you can dirty flash the build manually.
