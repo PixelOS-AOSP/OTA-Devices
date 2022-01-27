@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_ginkgo-12.0-20220115-1025.zip",
+    "datetime": 1643219180,
+    "size": 1620553012,
+    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-01-15/PixelOS_ginkgo-12.0-20220115-1025.zip",
+    "filehash": "a132bfde63134f47bf3b16429d4edaca",
+    "id": "a132bfde63134f47bf3b16429d4edaca",
+    "maintainers": [
+        {
+            "main_maintainer": true,
+            "github_username": "KitsuneJasutin",
+            "name": "Jasutin Doktah"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://www.youtube.com/watch?v=q-LopB221Yc",
+    "news_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-unified-22-10-2021.4237791/"
+}
