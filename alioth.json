@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_alioth-12.0-20220126-1908.zip",
+    "datetime": 1643268782,
+    "size": 1932735283,
+    "url": "https://mva2.androidfilehost.com/dl/xZd4NRSG7TJBadl0IS1xnA/1643329210/17825722713688276835/PixelOS_alioth-12.0-20220126-1908.zip",
+    "filehash": "f156d8e47d66bcb3b5204f6e1a4383a8",
+    "id": "f156d8e47d66bcb3b5204f6e1a4383a8",
+    "maintainers": [
+        {
+            "main_maintainer": true,
+            "github_username": "cristianvaz",
+            "name": "cristianvaz"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://github.com/PixelOS-Pixelish/OTA-Devices/releases/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": ""
+}
