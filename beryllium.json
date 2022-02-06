@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_beryllium-12.0-20220205-0912.zip",
+    "datetime": 1644051870,
+    "size": 1625346042,
+    "url": "https://github.com/sajidshahriar72543/ota_test/releases/download/test_0.1/PixelOS_beryllium-12.0-20220205-0912.zip",
+    "filehash": "8158dfa072885449799de4661cd06d10",
+    "id": "8158dfa072885449799de4661cd06d10",
+    "maintainers": [
+        {
+            "main_maintainer": true,
+            "github_username": "sajidshahriar72543",
+            "name": "PaperBoy"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://github.com/PixelOS-Pixelish/OTA-Devices/releases/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": ""
+}
