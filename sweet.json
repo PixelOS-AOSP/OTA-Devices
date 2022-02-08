@@ -1,21 +1,21 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_sweet-12.0-20220115-0905.zip",
-    "datetime": 1643085402,
-    "size": 1397178368,
-    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-01-15/PixelOS_sweet-12.0-20220115-0905.zip",
-    "filehash": "cf1f318994a9446ba40a0ef07760a9ab",
-    "id": "cf1f318994a9446ba40a0ef07760a9ab",
+    "filename": "PixelOS_sweet-12.0-20220208-1809.zip",
+    "datetime": "1644343662",
+    "size": "1503613752",
+    "url": "https://github.com/basamaryan/android_device_xiaomi_sweet/releases/download/test/PixelOS_sweet-12.0-20220208-1809.zip",
+    "filehash": "e0632decd7c421216db2f7a00c10b172",
+    "id": "e0632decd7c421216db2f7a00c10b172",
     "maintainers": [
         {
             "main_maintainer": true,
-            "github_username": "basamaryan",
-            "name": "Aryannn999"
+            "github_username": "https://github.com/basamaryan",
+            "name": "Aryan"
         }
     ],
     "donate_url": "",
-    "website_url": "https://github.com/PixelOS-Pixelish/OTA-Devices/releases/",
+    "website_url": "https://github.com/PixelOS-Pixelish",
     "news_url": "https://t.me/PixelOSOfficial",
     "forum_url": ""
 }
