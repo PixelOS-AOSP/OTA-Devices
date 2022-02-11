@@ -9,9 +9,14 @@
     "id": "fe1413dc187049c1a44958cb3a10a35f",
     "maintainers": [
         {
-            "main_maintainer": true,
+            "main_maintainer": false,
             "github_username": "geek0609",
             "name": "Ashwin DS"
+        },
+        {
+            "main_maintainer": false,
+            "github_username": "whyredfire",
+            "name": "test"
         }
     ],
     "donate_url": "",
