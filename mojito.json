@@ -9,7 +9,7 @@
     "id": "fe1413dc187049c1a44958cb3a10a35f",
     "maintainers": [
         {
-            "main_maintainer": false,
+            "main_maintainer": true,
             "github_username": "geek0609",
             "name": "Ashwin DS"
         },
